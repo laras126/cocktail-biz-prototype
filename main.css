@@ -1,0 +1,14 @@
+
+.btn {
+	padding: 1rem 1.3rem;
+	border-radius: 5px;
+}
+
+.btn--facebook {
+	background-color: cornflowerblue;
+}
+
+.btn--tumblr {
+	background-color: springgreen;
+}
+
